@@ -13,7 +13,7 @@ So, if you are a student trying to run this test harness on your own code, then 
 
 ### If you are a TA
 
-If the student repository is private (as it should be for this assignment), then make sure the student adds you as a *collaborator*.  Then, use the ssh git link for the git URL.  For the version tag to work, the student must `git tag` their release using *semantic versioning* (e.g. `git tag 1.0.0`).
+If the student repository is private (as it should be for this assignment), then make sure the student adds you as a *collaborator*.  Then, use the ssh git link for the git URL.  For the version tag to work, the student must `git tag` their release using *semantic versioning* (e.g. `git tag 1.0.0`)
 
 
 ## Handy tricks
