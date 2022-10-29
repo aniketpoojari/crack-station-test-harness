@@ -26,6 +26,6 @@ This should force your packages to re-fetch.  (Well, technically, force your pac
 
 ### In Xcode
 
-Resetting your package cache, which should force your package to re-fetch.  (Well, technically, force your package's _dependencies_ to re-fetch; but in this case your package is the dependency of the test harness, so...)
+Resetting your package cache, which should force your package to re-fetch.  (Well, technically, force your package's _dependencies_ to re-fetch; but in this case your package is the dependency of the test harness, so...).
 
 <img width=500 src="https://user-images.githubusercontent.com/4765449/197598041-e8d5cbbb-35c3-49dc-983c-e96f322e0552.png">
