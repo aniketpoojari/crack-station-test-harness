@@ -17,7 +17,7 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: "https://github.com/NinadAnklesaria/CrackStation", from: "1.0.3")
-        // .package(url: "https://github.com/katkhedp/CrackStation", from: "1.0.1")6
+        // .package(url: "https://github.com/katkhedp/CrackStation", from: "1.0.1")7
         .package(url: "git@github.com:aniketpoojari/CrackStation.git", from: "2.0.10")
     ],
     targets: [
