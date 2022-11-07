@@ -17,7 +17,8 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: "https://github.com/NinadAnklesaria/CrackStation", from: "1.0.3")
-        .package(url: "https://github.com/katkhedp/CrackStation", from: "1.0.1")
+        // .package(url: "https://github.com/katkhedp/CrackStation", from: "1.0.1")1
+        .package(url: "git@github.com:aniketpoojari/CrackStation.git", from: "2.0.11")
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite
@@ -29,7 +30,7 @@ let package = Package(
                 // In an emergency, you could still get a package to work if
                 // the package repo isn't named `CrackStation`. Here:
                 //
-                //.product(name: "CrackStation", package: "sha-crack-station")
+                //.product(name: "CrackStation", package: "sha-crack-station)
             ]),
         .testTarget(
             name: "CrackStationWrapperTests",
