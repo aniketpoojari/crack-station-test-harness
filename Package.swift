@@ -17,8 +17,8 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: "https://github.com/NinadAnklesaria/CrackStation", from: "1.0.3")
-        // .package(url: "https://github.com/katkhedp/CrackStation", from: "1.0.1")8
-        .package(url: "https://github.com/aniketpoojari/CrackStation.git", from: "2.0.12")
+        // .package(url: "https://github.com/katkhedp/CrackStation", from: "1.0.1")13
+        .package(url: "https://github.com/aniketpoojari/CrackStation.git", from: "2.0.13")
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite
